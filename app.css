@@ -1,0 +1,24 @@
+body{
+    background-color:grey;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+
+#searchForm{
+    display: inline-block;
+}
+
+#deleteBtn{
+    background-color: red;
+    color: white;
+    border-radius: 5px, 5px, 5px;
+}
+    
+.newGif{
+    float: left;
+}
